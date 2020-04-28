@@ -9,7 +9,7 @@ junilhwang 저장소 수정
 
 junilhwang 저장소 두번째 수정
 
-eybac/pull-request-tutorial fork 후 수정 수정 수정 수정으로 하는게 좋지 않을까?
+eybac/pull-request-tutorial fork 후 수정
 
 khw/pull-request-tutorial fork 후 수정
 
@@ -18,3 +18,4 @@ dkdlelk99/pull-request-tutorial fork 후 수정
 quavious/pull-request-tutorial fork 후 수정
 
 pul8219/pull-request-tutorial fork 후 수정
+
