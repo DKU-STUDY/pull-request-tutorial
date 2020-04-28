@@ -17,6 +17,12 @@ dkdlelk99/pull-request-tutorial fork 후 수정
 
 quavious/pull-request-tutorial fork 후 수정 ㅇ ㅇ
 
+String a = "10"
+
+PR 테스트용 커밋입니다.
+
+PR을 올린 후의 커밋 테스트
+
 
 ㅁㅇㄴㄹ
 ㅁㄹ
