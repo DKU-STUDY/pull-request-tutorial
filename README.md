@@ -20,3 +20,5 @@ quavious/pull-request-tutorial fork 후 수정
 pul8219/pull-request-tutorial fork 후 수정
 
 H-yeonJeong/pull-request-tutorial fork 후 수정
+
+H-yeonJeong2/pull-request-tutorial fork 후 수정
