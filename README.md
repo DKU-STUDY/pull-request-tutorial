@@ -19,4 +19,4 @@ quavious/pull-request-tutorial fork 후 수정
 
 pul8219/pull-request-tutorial fork 후 수정
 
-20200709 h-yeonjeong
+H-yeonJeong/pull-request-tutorial fork 후 수정
