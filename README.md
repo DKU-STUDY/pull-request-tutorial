@@ -11,6 +11,7 @@ junilhwang 저장소 두번째 수정
 
 eybac/pull-request-tutorial fork 후 수정
 
+
 khw/pull-request-tutorial fork 후 수정
 
 dkdlelk99/pull-request-tutorial fork 후 수정
@@ -22,3 +23,14 @@ pul8219/pull-request-tutorial fork 후 수정
 H-yeonJeong/pull-request-tutorial fork 후 수정
 
 H-yeonJeong2/pull-request-tutorial fork 후 수정
+
+jay/pull-request-tutorial fork 후 수정
+
+jay2/pull-request-tutorial fork 후 수정
+
+s2uyeoii/pull-request-tutorial fork 후 수정
+
+20200709 r
+
+20200709 eyabc
+
