@@ -22,5 +22,7 @@ pul8219/pull-request-tutorial fork 후 수정
 
 s2uyeoii/pull-request-tutorial fork 후 수정
 
+20200709 r
+
 20200709 eyabc
 
