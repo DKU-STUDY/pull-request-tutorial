@@ -1,5 +1,4 @@
 # pull-request-tutorial
-
 fork와 Pull Request로 repository를 관리하는 방법에 대한 튜토리얼
 
 junilhwang/pull-request-tutorial로 fork 후 수정
@@ -11,6 +10,7 @@ junilhwang 저장소 수정
 junilhwang 저장소 두번째 수정
 
 eybac/pull-request-tutorial fork 후 수정
+
 
 khw/pull-request-tutorial fork 후 수정
 
@@ -45,5 +45,3 @@ siyoung-yang/pull-request-tutorial fork 후 수정
 JeonghyunLee99/pull-request-tutorial fork 후 수정
 
 JeonghyunLee 저장소 두 번째 수정
-
-6047198844/pull-request-tutorial fork 후 수정
